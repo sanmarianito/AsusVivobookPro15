@@ -1,0 +1,7 @@
+# https://sanmarianito.github.io/AsusVivobookPro15/
+# Venta de ASUS Vivobook Pro 15 OLED N6506 — Medellin, Colombia
+
+User-agent: *
+Allow: /
+
+Sitemap: https://sanmarianito.github.io/AsusVivobookPro15/sitemap.xml
